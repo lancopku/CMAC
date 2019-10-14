@@ -50,11 +50,19 @@ where ``MODEL_PATH`` is the file name of the trained model. The output will be s
 If you find the CMAC task or the dataset interesting, please kindly cite our paper:
 
 ```
-  @inproceedings{yang2019cross,
-  title={Cross-Modal Commentator: Automatic Machine Commenting Based on Cross-Modal Information},
-  author={Yang, Pengcheng and Zhang, Zhihan and Luo, Fuli and Li, Lei and Huang, Chengyang and Sun, Xu},
-  booktitle={Proceedings of the 57th Conference of the Association for Computational Linguistics},
-  pages={2680--2686},
-  year={2019}
+@inproceedings{yang2019cross,
+  author    = {Pengcheng Yang and
+               Zhihan Zhang and
+               Fuli Luo and
+               Lei Li and
+               Chengyang Huang and
+               Xu Sun},
+  title     = {Cross-Modal Commentator: Automatic Machine Commenting Based on Cross-Modal
+               Information},
+  booktitle = {Proceedings of the 57th Conference of the Association for Computational
+               Linguistics, {ACL} 2019, Florence, Italy, July 28- August 2, 2019,
+               Volume 1: Long Papers},
+  pages     = {2680--2686},
+  year      = {2019}
 }
 ```
