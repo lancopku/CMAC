@@ -45,6 +45,8 @@ python3 transformer.py -mode test -dir CKPT_DIR -restore CKPT_DIR/MODEL_PATH
 
 where ``MODEL_PATH`` is the file name of the trained model. The output will be stored in ``prediction.json`` by default. You can change this option using the ``-output`` argument.
 
+We also provide [a trained model](https://drive.google.com/file/d/1EkeD1ryyrqzNHtOeeXQJjvZXg_aF3N7p/view?usp=sharing) for reproducing the results in the paper.
+
 ## Cite
 
 If you find the CMAC task or the dataset interesting, please kindly cite our paper:
